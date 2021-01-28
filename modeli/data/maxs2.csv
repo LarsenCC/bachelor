@@ -1,0 +1,27 @@
+Smoked,1.0
+PhysInactive,1.0
+Aritmia,1.0
+waist,160.0
+bodyfat,80.99338672
+fvc,8.45
+fev1,6.68
+AnyMeds AN do AY ,1.0
+All_disease,1.0
+resting_dbp,120.0
+resting_sbp,190.0
+resting_hr,120.0
+height inch->cm,208.28
+weight Ib->kg,179.61
+BMI,57.15237767924096
+ageattest,89.2
+Gender_Male,1.0
+CR_Code_1.0,1.0
+CR_Code_2.0,1.0
+CR_Code_3.0,1.0
+CR_Code_4.0,1.0
+CR_Code_5.0,1.0
+ethnic_code_1.0,1.0
+ethnic_code_2.0,1.0
+ethnic_code_3.0,1.0
+ethnic_code_4.0,1.0
+ethnic_code_5.0,1.0
